@@ -9,6 +9,8 @@
 	position: absolute;
 	height: 55vw;
 	width: 55vw;
+	animation-name: wheel;
+	animation-duration: 10s;
 }
 
 .line {
