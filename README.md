@@ -1,6 +1,6 @@
 # FERRIS WHEEL APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a colorful Ferris Wheel with animation built with HTML and CSS.
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a colorful Ferris Wheel with animations built with HTML and CSS.
 
 ![ferris wheel app - Tanimara Elias Santos](ferris-wheel-app-showcase.gif)
 
