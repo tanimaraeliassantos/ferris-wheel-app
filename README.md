@@ -6,7 +6,6 @@ The application was built as a practice project for a responsive web design cour
 
 ## Features
 
-- Ferris wheel
 - The wheel rotates and the cabins have gentle movements that follow the rotation.
 - The cabins have different background colors as the animation progresses through different timing slots.
 
